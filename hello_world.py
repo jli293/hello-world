@@ -1,7 +1,6 @@
 def main():
     """
     prints "hello world"
-    :return:
     """
 
     print("Hello World!")
