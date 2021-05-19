@@ -1,14 +1,16 @@
-def main():
+from flask import Flask
+
+app = Flask(__name__)
+
+
+@app.route("/")
+def hello():
     """
-    prints "hello world"
+    prints "hello world from flaskland"
     """
 
-    print("Hello World!")
-
-    print("edit may 13")
-
-    print("print demo statement")
+    return "<p>Hello World from Flaskland!</p>"
 
 
 if __name__ == '__main__':
-    main()
+    app.run()
