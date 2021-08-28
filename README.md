@@ -1,7 +1,6 @@
 # hello-world
-Not just another repository
 
-Hello World!
+Hello World! This is Jimmy's first remote repository.
 
 My name is Jimmy and I am currently a master student at UPenn studying computer science.
 
