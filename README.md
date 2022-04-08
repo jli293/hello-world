@@ -8,4 +8,4 @@ I am based out of London ON Canada
 
 I enjoy doing yoga and cooking in my spare time.
 
-Nice to meet you!
+I am an aspiring Solutions Engineer.
